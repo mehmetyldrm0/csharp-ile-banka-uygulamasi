@@ -1,0 +1,15 @@
+C:\Users\aykut\Dropbox\Csharp\Banka v1\Banka v1\bin\Debug\Banka v1.exe.config
+C:\Users\aykut\Dropbox\Csharp\Banka v1\Banka v1\bin\Debug\Banka v1.exe
+C:\Users\aykut\Dropbox\Csharp\Banka v1\Banka v1\bin\Debug\Banka v1.pdb
+C:\Users\aykut\Dropbox\Csharp\Banka v1\Banka v1\obj\Debug\Banka v1.csproj.AssemblyReference.cache
+C:\Users\aykut\Dropbox\Csharp\Banka v1\Banka v1\obj\Debug\Banka v1.csproj.CoreCompileInputs.cache
+C:\Users\aykut\Dropbox\Csharp\Banka v1\Banka v1\obj\Debug\Banka v1.exe
+C:\Users\aykut\Dropbox\Csharp\Banka v1\Banka v1\obj\Debug\Banka v1.pdb
+C:\Users\zongs\Desktop\Yazılım Dünyası\programlama dilleri\c #\Yeni klasör\Banka v1\Banka v1\bin\Debug\Banka v1.exe.config
+C:\Users\zongs\Desktop\Yazılım Dünyası\programlama dilleri\c #\Yeni klasör\Banka v1\Banka v1\bin\Debug\Banka v1.exe
+C:\Users\zongs\Desktop\Yazılım Dünyası\programlama dilleri\c #\Yeni klasör\Banka v1\Banka v1\bin\Debug\Banka v1.pdb
+C:\Users\zongs\Desktop\Yazılım Dünyası\programlama dilleri\c #\Yeni klasör\Banka v1\Banka v1\obj\Debug\Banka v1.csproj.AssemblyReference.cache
+C:\Users\zongs\Desktop\Yazılım Dünyası\programlama dilleri\c #\Yeni klasör\Banka v1\Banka v1\obj\Debug\Banka v1.csproj.SuggestedBindingRedirects.cache
+C:\Users\zongs\Desktop\Yazılım Dünyası\programlama dilleri\c #\Yeni klasör\Banka v1\Banka v1\obj\Debug\Banka v1.csproj.CoreCompileInputs.cache
+C:\Users\zongs\Desktop\Yazılım Dünyası\programlama dilleri\c #\Yeni klasör\Banka v1\Banka v1\obj\Debug\Banka v1.exe
+C:\Users\zongs\Desktop\Yazılım Dünyası\programlama dilleri\c #\Yeni klasör\Banka v1\Banka v1\obj\Debug\Banka v1.pdb
